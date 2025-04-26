@@ -1,6 +1,9 @@
 # swsc-hw
 Hardware documentation for WaterStorageController
 
+* Schematic
+[Schematic](SolarWaterStorageController.pdf "Schematic")
+
 * Front
 ![](imgs/IMG_8722.jpeg?raw=true "Front site")
 
